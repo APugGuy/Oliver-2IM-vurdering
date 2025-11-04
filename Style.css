@@ -1,0 +1,17 @@
+body {
+    background-color: #dedede;
+}
+.dropdown {
+    padding-top: 1px;
+}
+.container {
+  display: flex;
+  justify-content: space-evenly;
+}
+.wedding-photos img {
+  width: 300px;
+  height: auto;
+  margin: 10px;
+  border: 2px solid #555;
+  border-radius: 5px;
+}
